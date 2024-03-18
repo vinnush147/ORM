@@ -41,6 +41,7 @@ class books_DBAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
+![orm ](https://github.com/vinnush147/ORM/assets/147139234/24b516e7-723f-4410-94aa-47d85487e866)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
